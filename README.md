@@ -1,5 +1,12 @@
 # MOCK_SERVER
+## Start
+```
+cd vue-app
+yarn serve
 
+cd node-app
+npm run server
+```
 ### 构建接口文档
 Node + express + jwt
 - 搭建服务器
